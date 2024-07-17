@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370766917795",
+    "project_id": "pingolearn-bhavik",
+    "storage_bucket": "pingolearn-bhavik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370766917795:android:09c0004b726d46c290cf16",
+        "android_client_info": {
+          "package_name": "com.example.pingolearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQiZjmuVEemNctiYnQNhjoQZVwKeAMBes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370766917795:android:31c5fae6b1ad264c90cf16",
+        "android_client_info": {
+          "package_name": "com.pingo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQiZjmuVEemNctiYnQNhjoQZVwKeAMBes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
